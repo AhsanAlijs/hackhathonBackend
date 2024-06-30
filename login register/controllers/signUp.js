@@ -1,0 +1,1 @@
+import userModal from '../model/register.js'
